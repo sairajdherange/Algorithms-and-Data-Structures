@@ -2,7 +2,7 @@
  * Binary_search.h
  *
  *  Created on: 12-Mar-2020
- *      Author: sunbeam
+ *      Author: Sairaj Dherange
  */
 
 #ifndef BINARY_SEARCH_H_

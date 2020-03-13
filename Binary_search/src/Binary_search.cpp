@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Binary_search.cpp
-// Author      : 
+// Author      : Sairaj Dherange
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
