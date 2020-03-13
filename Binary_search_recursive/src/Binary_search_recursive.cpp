@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Binary_search.cpp
+// Name        : Binary_search_recursive.cpp
 // Author      : Sairaj Dherange
 // Version     :
 // Copyright   : Your copyright notice
@@ -8,7 +8,7 @@
 
 #include <iostream>
 using namespace std;
-#include "Binary_search.h"
+#include "Binary_search_recursive.h"
 
 int main() {
 	int number, key ;
@@ -28,7 +28,10 @@ int main() {
 	cout<<"Enter the element to be searched : ";
 	cin>>key;
 
-	binary_search(array , number , key);
+	if( binary_search(array , number , key , 0 , number-1))
+		cout<<"Number found "<<endl;
+	else
+		cout<<"Number not found "<<endl;
 
 	return 0;
 }
