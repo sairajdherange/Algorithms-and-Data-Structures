@@ -1,9 +1,10 @@
-/*
- * working.h
- *
- *  Created on: 14-Mar-2020
- *      Author: sunbeam
- */
+//============================================================================
+// Name        : working.h
+// Author      : Sairaj Dherange
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
 
 #ifndef WORKING_H_
 #define WORKING_H_

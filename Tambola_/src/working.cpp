@@ -1,9 +1,11 @@
-/*
- * working.cpp
- *
- *  Created on: 14-Mar-2020
- *      Author: sunbeam
- */
+//============================================================================
+// Name        : working.cpp
+// Author      : Sairaj Dherange
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
 #include <iostream>
 using namespace std;
 #include <iomanip>
